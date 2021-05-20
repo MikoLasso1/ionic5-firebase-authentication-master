@@ -1,1 +1,0 @@
-# ionic5-firebase-authentication-master
